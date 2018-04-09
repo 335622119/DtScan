@@ -57,12 +57,57 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Css\control_index.css" />
+    <Content Include="Css\identify.css" />
+    <Content Include="Css\layout.css" />
+    <Content Include="Css\login.css" />
+    <Content Include="Css\style.css" />
+    <Content Include="identify.html" />
+    <Content Include="Images\forget.png" />
+    <Content Include="Images\icon_authentication.png" />
+    <Content Include="Images\icon_author.png" />
+    <Content Include="Images\icon_control.png" />
+    <Content Include="Images\icon_cost.png" />
+    <Content Include="Images\icon_gold.png" />
+    <Content Include="Images\icon_market.png" />
+    <Content Include="Images\icon_message.png" />
+    <Content Include="Images\icon_news.png" />
+    <Content Include="Images\icon_order.png" />
+    <Content Include="Images\icon_set.png" />
+    <Content Include="Images\identify_developer.png" />
+    <Content Include="Images\identify_enterprise.png" />
+    <Content Include="Images\identify_personal.png" />
+    <Content Include="Images\login-bg.png" />
+    <Content Include="Images\logo.png" />
+    <Content Include="Images\noavatar_middle.gif" />
+    <Content Include="index.html" />
+    <Content Include="Js\haidao.offcial.general.js" />
+    <Content Include="Js\haidao.validate.js" />
+    <Content Include="Js\jquery-1.7.2.min.js" />
+    <Content Include="Js\jquery.cookie.js" />
+    <Content Include="Js\jquery.js" />
+    <Content Include="Js\js.js" />
+    <Content Include="Js\layer.js" />
+    <Content Include="Js\select.js" />
+    <Content Include="Js\Validform_v5.3.2_min.js" />
+    <Content Include="login.html" />
+    <Content Include="message.html" />
+    <Content Include="money.html" />
+    <Content Include="order.html" />
+    <Content Include="qiyeAuth.html" />
+    <Content Include="register.html" />
+    <Content Include="repassword.html" />
+    <Content Include="smsInfo.html" />
+    <Content Include="success.html" />
+    <Content Include="userInfo.html" />
     <Content Include="Web.config" />
+    <Content Include="webSet.html" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\avatar.php" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
